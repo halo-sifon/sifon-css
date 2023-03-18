@@ -1,8 +1,8 @@
 {
   "name": "sifon-css",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "一些常用的css样式",
-  "main": "sifon.css",
+  "main": "sifon-css.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/halo-sifon/sifon-css"
